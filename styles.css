@@ -1,0 +1,29 @@
+body {
+  color: #000000;
+  background-color: #E6E6FA;
+}
+
+
+.box {
+  width: 462px;
+  padding: 15px;
+  border: 5px solid black;
+  margin: : 20px;
+  background: red;
+  }
+
+
+.h1 {
+  font-family:sans-serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  max-width: 320px;
+  position: 100% absolute;
+  display: inline-block;
+  color: #000000;
+}
+
+
+.container {
+  font-size: border 1px solid black
+}
